@@ -11,6 +11,5 @@ u
 ***whoami***
 pwd
 <sup>history</sup>
-The background color is `#0969DA`
->`#RRGGBB`
+The background color is `#0969D`
 >
