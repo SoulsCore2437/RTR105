@@ -17,14 +17,11 @@ Studiju kursa datormācība (pamtkurss) elektroniskā klade
    13  cd Music/ - pārvietošana
    14  ls -ka -
    15  cd - pārvietošana sakumā
-   43  cd .. - pārvietošana atpakaļ
-   44  cd . -
-   45  cd sc/ - pārvietošana
-   54  cd root
-   64  cd /home/user/
-   65  pwd
-   66  cd /
-   67  pwd
+   16  cd .. - pārvietošana atpakaļ
+   17  cd . -
+   18  cd sc/ - pārvietošana
+   19  cd root
+   20  cd /home/user/ -
    68  cd ~
    69  pwd
    70  cd ~/Documents/
