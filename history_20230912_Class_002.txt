@@ -1,0 +1,34 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  cd ~
+    4  cd~/Documents/
+    5  mkdir ABC
+    6  ls -lt
+    7  ls -lt ABC/
+    8  ls -lta ABC/
+    9  pwd
+   10  ls -lta
+   11  cd ..
+   12  la -lt
+   13  pwd
+   14  ls
+   15  pwd
+   16  cd ..
+   17  ls -l /usr/bin/whoami
+   18  whereis pwd
+   19  echo $PATH
+   20  nano mans_pirmais_shell_skript.sh
+   21  pwd
+   22  cd
+   23  pwd
+   24  ls
+   25  ls -lt
+   26  chmod 754 mans_pirmais_shell_skript.sh 
+   27  ls -lt
+   28  ./mans_pirmais_shell_skript.sh 
+   29  echo $PATH
+   30  PATH=$PATH:~
+   31  echo $PATH
+   32  mans_pirmais_shell_skript.sh 
+   33  history
+   34  history > history_20230912_Class_002.txt
