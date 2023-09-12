@@ -89,3 +89,4 @@ Studiju kursa datormācība (pamtkurss) elektroniskā klade
   144  history
   145  history>
   146  history > history_20230912_Class_02.txt
+
