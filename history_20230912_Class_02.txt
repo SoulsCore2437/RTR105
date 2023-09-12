@@ -23,22 +23,10 @@ Studiju kursa datormācība (pamtkurss) elektroniskā klade
    19  cd root
    20  cd /home/user/ -
    68  cd ~
-   69  pwd
-   70  cd ~/Documents/
-   71  pwd
-   72  cd /
-   73  pwd
-   74  cd 
-   75  pwd
-   76  -lt
-   77  ls -lt
-   78  mkdir ABC
+   78  mkdir ABC - mapes izveidošana
    79  ls -lt
-   80  ls -lt ABC/
-   81  ls -lta ABC/
-   82  cd ABC
-   83  pwd
-   84  ls -lt
+   80  ls -lt ABC/ - kas atrodas iekšā
+   81  ls -lta ABC/ - 
    85  ls -lta
    86  cd ..
    87  ls -lt
