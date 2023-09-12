@@ -1,66 +1,26 @@
-    1  VirtualBox --startvm XP
-    2  quartus
-    3  whoami
-    4  who
-    5  pwa
-    6  w
-    7  pwad
-    8  pwd
-    9  ls
-   10  man ls
-   11  ls-l
-   12  ls -l
-   13  ls -l -t
-   14  ls -lt
-   15  ~$ ls
-   16  ls
-   17  ls -a
-   18  ls -la
-   19  ls Desktop/
-   20  las -la Dekstop/
-   21  ls -la Desktop/
-   22  ls -la D
-   23  ls -la Do
-   24  ls -la Desktop/
-   25  ls -la Do
-   26  pwd
-   27  la /home
-   28  ls /homr
-   29  ls /home
-   30  pwd
-   31  ls
-   32  tree
-   33  cd Music/
-   34  ls
-   35  ls -la
-   36  pwd
-   37  ls -ka
-   38  cd
-   39  pwd
-   40  ls =la
-   41  ls -la
-   42  cd..
-   43  cd ..
-   44  cd
-   45  cd sc/
-   46  cd 01$
-   47  cd..
-   48  cd ..
-   49  ls -la
-   50  pd
-   51  cd
-   52  pwd
-   53  ls
+# RTR105
+Studiju kursa datormācība (pamtkurss) elektroniskā klade
+
+##2.nodarbība "komandas nozīme"
+    1  whoami - lietotājs
+    2  who - pieslēgšana
+    3  pwd - kur tu tagad atrodas
+    4  ls - kadas mapes eksistē
+    5  man ls - komandu apraksts
+    6  ls -l - mapes secībā
+    7  ls -lt - mapes izmaiņas secībā
+    8  ls -a - visas mapes
+    9  ls -la - visas mapes secībā
+   10  ls -la Desktop/ - mapes noteikta vietā
+   11  ls /home -
+   12  tree - visos mapes saturs
+   13  cd Music/ - pārvietošana
+   14  ls -ka -
+   15  cd - pārvietošana sakumā
+   43  cd .. - pārvietošana atpakaļ
+   44  cd . -
+   45  cd sc/ - pārvietošana
    54  cd root
-   55  pwd
-   56  ls
-   57  cd root
-   58  pwd
-   59  cd home
-   60  pwd
-   61  cd. /home/
-   62  ls
-   63  cd user
    64  cd /home/user/
    65  pwd
    66  cd /
