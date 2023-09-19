@@ -1,0 +1,51 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  cd /Documents/RTR105
+    4  pwd
+    5  cd /home/user/Documents
+    6  cd /RTR105
+    7  ls _lt
+    8  ls 0lt
+    9  ls -lt
+   10  cd ..
+   11  cd /RTR105
+   12  cd /RTR105/
+   13  where is pwd
+   14  whereis pwd
+   15  whereis bash
+   16  pwd
+   17  cd /home/user/RTR105
+   18  nano
+   19  pwd
+   20  ls -lt
+   21  cat git-upload
+   22  ls -lt
+   23  git-upload
+   24  whereis pwd
+   25  echo $PATH
+   26  git-upload
+   27  /home/user/RTR105
+   28  /home/user/RTR105/git-upload
+   29  man chmod
+   30  nano
+   31  chmod 754 git-upload
+   32  ls -lt
+   33  nano permission.txt
+   34  chmod 754 git-upload
+   35  ls -lt
+   36  echo $PATH
+   37  git-upload
+   38  ls -lt
+   39  echo $PATH
+   40  PATH=$PATH:~/RTR105
+   41  echo $PATH
+   42  git-upload
+   43  nano git-upload
+   44  git-upload
+   45  nano
+   46  nano git-upload
+   47  git-upload
+   48  nano git-upload
+   49  git-upload
+   50  history 
+   51  history > history1.txt
