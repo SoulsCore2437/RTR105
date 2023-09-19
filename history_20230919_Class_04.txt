@@ -1,0 +1,43 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  whoami
+    4  who
+    5  pwd
+    6  ls
+    7  ls -lt
+    8  git
+    9  man git
+   10  git clone https://github.com/SoulsCore2437?tab=repositories
+   11  git --
+   12  git clone https://github.com/SoulsCore2437?tab=repositories
+   13  git clone github.com/SoulsCore2437?tab=repositories
+   14  git clone https://github.com/SoulsCore2437/RTR105
+   15  ls -lt
+   16  git clone https://github.com/SoulsCore2437/RTR105 RTR105.
+   17  ls -lt
+   18  ls -lt RTR105 | grep RTR105
+   19  ls -lt | grep RTR105
+   20  rmdir RTR105.
+   21  ls -lt
+   22  man rmdir
+   23  man rm
+   24  rm -r RTR105.
+   25  rm -rf RTR105.
+   26  ls -lt
+   27  pwd
+   28  cd ~/RTR105
+   29  whoami
+   30  ls -lt
+   31  ls -la
+   32  cd .git/
+   33  ls
+   34  ls -lt
+   35  cat index
+   36  cat config
+   37  hexdump -C config
+   38  hexdump -C index
+   39  cat index
+   40  cd ..
+   41  pwd
+   42  history
+   43  history > history_20230919_Class_04.txt
