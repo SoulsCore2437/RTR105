@@ -38,3 +38,17 @@
    38  git-upload
    39  ./git-upload
    40  history > 1_time_with_virtualbox.txt
+   41  git-upload
+   42  echo $PATH
+   43  PATH=$PATH:~
+   44  echo $PATH
+   45  git-upload
+   46  cat git-upload
+   47  man chmod
+   48  chmod 754 git-upload
+   49  ls -lt
+   50  echo $PATH
+   51  PATH=$PATH:~/RTR105
+   52  echo $PATH
+   53  git-upload
+   54  history > 1_time_with_virtualbox.txt
