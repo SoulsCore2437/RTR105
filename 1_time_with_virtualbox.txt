@@ -1,0 +1,40 @@
+    1  whoami
+    2  pwd
+    3  cd /Documents
+    4  cd /Документы
+    5  cd /Файлы
+    6  cd /Файлы/#
+    7  cd /Файлы/
+    8  cd /Загрузки
+    9  cd /Загрузки/
+   10  cd Загрузки/
+   11  cd ..
+   12  cd Downloads/
+   13  pwd ad
+   14  pwd am
+   15  who
+   16  whoami
+   17  ls -lt
+   18  nano git-upload
+   19  git clone https://github.com/SoulsCore2437/RTR105
+   20  sudo apt install git
+   21  git clone https://github.com/SoulsCore2437/RTR105
+   22  git-upload
+   23  nano git-upload
+   24  git-upload
+   25  gcc git-upload
+   26  nano git-upload
+   27  cd /RTR105
+   28  cd RTR105/
+   29  git-upload
+   30  nano git-upload
+   31  nano
+   32  pwd
+   33  chmod 754 git0upload
+   34  chmod 754 git-upload
+   35  ls -lt
+   36  git-upload
+   37  echo $PATH
+   38  git-upload
+   39  ./git-upload
+   40  history > 1_time_with_virtualbox.txt
