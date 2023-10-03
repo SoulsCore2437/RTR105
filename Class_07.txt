@@ -1,0 +1,35 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  nano
+    4  nano 7_nodarbība_1_piemērs
+    5  git-clone https://github.com/SoulsCore2437/RTR105
+    6  cd /Documents
+    7  cd /Documents/
+    8  cd Documents/
+    9  cd RTR105/
+   10  git clone https://github.com/SoulsCore2437/RTR105
+   11  cd RTR105/
+   12  mkdir Class_07
+   13  cd Class_07
+   14  nano 7_nodarbība_1_piemērs
+   15  gcc 7_nodarbība_1_piemērs
+   16  nano 7_nodarbība_1_piemērs
+   17  nano 7_nodarbība_1_piemērs.c
+   18  gcc 7_nodarbība_1_piemērs.c -o 7_nodarbība_1_piemērs.out
+   19  ./7_nodarbība_1_piemērs.out
+   20  cat 7_nodarbība_1_piemērs.c
+   21  nano 7_nodarbība_2_piemērs.c
+   22  gcc 7_nodarbība_2_piemērs.c -o 7_nodarbība_2_piemērs.out
+   23  git-upload
+   24  cd ..
+   25  git-upload
+   26  gcc git-upload
+   27  nano git-upload
+   28  gcc git.upload
+   29  echo $PATH
+   30  PATH=$PATH:~/RTR105/Class_07
+   31  git-upload
+   32  chmod 754 git-upload
+   33  git-upload
+   34  nano git-upload
+   35  history > Class_07.txt
